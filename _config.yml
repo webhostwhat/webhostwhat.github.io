@@ -1,0 +1,11 @@
+# Site settings
+title: Web Host What
+email: mail@webhostwhat.com
+description: Welcome to the wonderful world of blogging with Jekyll. It's a simply, but powerful flat based blogging system. Which can be hosted on GitHub pages for free!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://webhostwhat.github.io" # the base hostname & protocol for your site
+twitter_username: webhostwhat
+github_username:  webhostwhat
+
+# Build settings
+markdown: kramdown
